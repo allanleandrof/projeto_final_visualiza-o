@@ -1,0 +1,116 @@
+{
+    "medias": {
+        "male": 0.42924528301886794,
+        "age": 49.58018867924528,
+        "education": 1.9799528301886793,
+        "currentSmoker": 0.49410377358490565,
+        "cigsPerDay": 8.94433962264151,
+        "BPMeds": 0.029245283018867925,
+        "prevalentStroke": 0.00589622641509434,
+        "prevalentHyp": 0.3106132075471698,
+        "diabetes": 0.025707547169811322,
+        "totChol": 236.6676886792453,
+        "sysBP": 132.35459905660377,
+        "diaBP": 82.89775943396226,
+        "BMI": 25.79900471698113,
+        "heartRate": 75.87877358490566,
+        "glucose": 81.60094339622641,
+        "TenYearCHD": 0.15188679245283018
+    },
+    "medianas": {
+        "male": 0.0,
+        "age": 49.0,
+        "education": 2.0,
+        "currentSmoker": 0.0,
+        "cigsPerDay": 0.0,
+        "BPMeds": 0.0,
+        "prevalentStroke": 0.0,
+        "prevalentHyp": 0.0,
+        "diabetes": 0.0,
+        "totChol": 234.0,
+        "sysBP": 128.0,
+        "diaBP": 82.0,
+        "BMI": 25.4,
+        "heartRate": 75.0,
+        "glucose": 78.0,
+        "TenYearCHD": 0.0
+    },
+    "percentil_25": {
+        "male": 0.0,
+        "age": 42.0,
+        "education": 1.0,
+        "currentSmoker": 0.0,
+        "cigsPerDay": 0.0,
+        "BPMeds": 0.0,
+        "prevalentStroke": 0.0,
+        "prevalentHyp": 0.0,
+        "diabetes": 0.0,
+        "totChol": 206.0,
+        "sysBP": 117.0,
+        "diaBP": 75.0,
+        "BMI": 23.0775,
+        "heartRate": 68.0,
+        "glucose": 72.0,
+        "TenYearCHD": 0.0
+    },
+    "percentil_75": {
+        "male": 1.0,
+        "age": 56.0,
+        "education": 3.0,
+        "currentSmoker": 1.0,
+        "cigsPerDay": 20.0,
+        "BPMeds": 0.0,
+        "prevalentStroke": 0.0,
+        "prevalentHyp": 1.0,
+        "diabetes": 0.0,
+        "totChol": 262.0,
+        "sysBP": 144.0,
+        "diaBP": 90.0,
+        "BMI": 28.0325,
+        "heartRate": 83.0,
+        "glucose": 85.0,
+        "TenYearCHD": 0.0
+    },
+    "referencias": {
+        "age": {
+            "baixo": 42.0,
+            "moderado": 49.0,
+            "alto": 56.0
+        },
+        "sysBP": {
+            "baixo": 120,
+            "moderado": 130,
+            "alto": 140
+        },
+        "diaBP": {
+            "baixo": 80,
+            "moderado": 85,
+            "alto": 90
+        },
+        "BMI": {
+            "baixo": 18.5,
+            "moderado": 25,
+            "alto": 30
+        },
+        "glucose": {
+            "baixo": 100,
+            "moderado": 125,
+            "alto": 140
+        },
+        "totChol": {
+            "baixo": 200,
+            "moderado": 240,
+            "alto": 280
+        },
+        "cigsPerDay": {
+            "baixo": 0,
+            "moderado": 5,
+            "alto": 10
+        },
+        "heartRate": {
+            "baixo": 60,
+            "moderado": 80,
+            "alto": 100
+        }
+    }
+}
