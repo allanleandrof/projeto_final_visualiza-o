@@ -1,0 +1,4 @@
+nome_paciente,age,male,currentSmoker,cigsPerDay,BPMeds,prevalentStroke,prevalentHyp,diabetes,totChol,sysBP,diaBP,BMI,heartRate,glucose
+João Silva,55,1,1,10,0,0,1,0,220,140,90,28.5,75,105
+Maria Souza,48,0,0,0,0,0,0,0,190,120,80,24.3,72,95
+Carlos Pereira,62,1,0,0,1,0,1,1,210,155,95,27.8,82,140
